@@ -1,0 +1,10 @@
+C:\imits\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\imits\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\imits\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\imits\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojAssemblyReference.cache
+C:\imits\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Form1.resources
+C:\imits\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\imits\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+C:\imits\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\imits\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\imits\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
